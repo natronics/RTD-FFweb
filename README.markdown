@@ -19,7 +19,7 @@ The Flatiron Flyer route has 14 stops covering a total of 43.9 km.
 
 
 
-[![Image](https://natronics.github.io/RTD-FFWeb/index_files/index_4_0.svg)](index_files/index_4_0.svg)
+[![Image](https://natronics.github.io/RTD-FFweb/index_files/index_4_0.svg)](index_files/index_4_0.svg)
 
 
 

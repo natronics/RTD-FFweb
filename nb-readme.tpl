@@ -29,7 +29,7 @@
 {% endblock stream %}
 
 {% block data_svg %}
-[![Image](https://natronics.github.io/RTD-FFWeb/{{ output.metadata.filenames['image/svg+xml'] | path2url }})]({{ output.metadata.filenames['image/svg+xml'] | path2url }})
+[![Image](https://natronics.github.io/RTD-FFweb/{{ output.metadata.filenames['image/svg+xml'] | path2url }})]({{ output.metadata.filenames['image/svg+xml'] | path2url }})
 
 {% endblock data_svg %}
 

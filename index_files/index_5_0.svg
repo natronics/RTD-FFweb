@@ -32,4 +32,13 @@
 <path d="m 150,536.908014571949 700,0" style="fill:none;stroke:#e4e4e4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
 <text style="writing-mode:lr-tb;text-anchor:end;font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:Lato;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;" x="145" xml:space="preserve" y="552.0"><tspan>Union Station</tspan></text>
 <path d="m 150,550.0 700,0" style="fill:none;stroke:#e4e4e4;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text style="text-anchor:middle;text-align:center;font-style:normal;font-weight:bold;font-size:10px;line-height:125%;font-family:Lato;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;" x="152.0" xml:space="preserve" y="45"><tspan>8:00</tspan></text>
+<path d="m 150.0,50 0,500" style="fill:none;stroke:#e4e4e4;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text style="text-anchor:middle;text-align:center;font-style:normal;font-weight:bold;font-size:10px;line-height:125%;font-family:Lato;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;" x="385.33333333333337" xml:space="preserve" y="45"><tspan>9:00</tspan></text>
+<path d="m 383.33333333333337,50 0,500" style="fill:none;stroke:#e4e4e4;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text style="text-anchor:middle;text-align:center;font-style:normal;font-weight:bold;font-size:10px;line-height:125%;font-family:Lato;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;" x="618.6666666666667" xml:space="preserve" y="45"><tspan>10:00</tspan></text>
+<path d="m 616.6666666666667,50 0,500" style="fill:none;stroke:#e4e4e4;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<text style="text-anchor:middle;text-align:center;font-style:normal;font-weight:bold;font-size:10px;line-height:125%;font-family:Lato;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;" x="852.0" xml:space="preserve" y="45"><tspan>11:00</tspan></text>
+<path d="m 850.0,50 0,500" style="fill:none;stroke:#e4e4e4;stroke-width:1.8px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<path d="M 150.0000,50.0000 169.4444,69.3534 173.3333,73.6794 177.2222,80.8515 185.0000,95.6512 188.8889,105.1002 200.5556,118.7614 220.0000,193.8980 235.5556,246.2659 251.1111,297.4954 258.8889,323.6794 282.2222,366.9399 332.7778,536.9080 344.4444,550.0000" style="fill:none;stroke:#4f81e1;stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
 </svg>

@@ -12,4 +12,5 @@ index.md: README.markdown
 
 clean:
 	rm -f index.md README.markdown
+	rm -rf index_files
 	rm -rf _site
